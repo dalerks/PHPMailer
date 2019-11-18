@@ -59,7 +59,7 @@ and open the template in the editor.
                 <td>           <select name="Mailinglist" class="inputstandard"> 
                      <option value="default">All Mailinglist </option> 
             <?php
-                $con = mysql_connect("localhost","root","cenC%p5T!");
+                $con = mysql_connect("localhost","root",");
                  if (!$con)
                  {
                    
