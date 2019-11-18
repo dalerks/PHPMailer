@@ -35,7 +35,7 @@ and open the template in the editor.
             $myDB = "mailer";
                 $con = mysql_connect
             ($myServer, $myUser, $myPass);
-            //("localhost","root","cenC%p5T!");
+
                  if (!$con)
                  {
                    
